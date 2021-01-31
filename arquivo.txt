@@ -1,3 +1,7 @@
 Adicionando texto
 ---
+<<<<<<< HEAD
 Adicionando texto com a branch login
+=======
+Adicionando texto com Branch master
+>>>>>>> master
