@@ -1,1 +1,3 @@
 Adicionando texto
+---
+Adicionando texto com Branch master
